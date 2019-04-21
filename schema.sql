@@ -1,9 +1,13 @@
+-- Removed vehicles covered in Insurance_Policy
+
 -- Changed condition in Vehicle to one VARCHAR description
     
 -- Changed vehicle catalog in Facility
     -- Added Facility FK to vehicle to account for this
 
 -- Removed rental location and return location
+
+-- Changed size of Insurance_Company
 
 CREATE TABLE Insurance_Policy (
     Policy_ID VARCHAR(8) NOT NULL,

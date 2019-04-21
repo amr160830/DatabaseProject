@@ -1,6 +1,7 @@
 INSERT INTO insurance_policy (Policy_ID, Insurance_Company, Insurance_Type) VALUES (%s, %s, %s)
-Integer
-8
+Unique Integer
+10000000
+99999999
 -
 21st Century Insurance
 AARP

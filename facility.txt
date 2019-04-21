@@ -1,0 +1,619 @@
+INSERT INTO facility (Facility_ID, Hours_of_Operation, Vehicle_Capacity, Fac_City, Fac_State, Fac_Street_Address) VALUES (%s, %s, %s, %s, %s, %s)
+Unique Integer
+10000
+99999
+-
+06:00-23:00
+07:00-23:00
+08:00-23:00
+09:00-23:00
+06:00-22:00
+07:00-22:00
+08:00-22:00
+09:00-22:00
+-
+Integer
+30
+100
+-
+City State
+New York , City New York
+Los Angeles , California
+Chicago , Illinois
+Houston , Texas
+Phoenix , Arizona
+Philadelphia , Pennsylvania
+San Antonio , Texas
+San Diego , California
+Dallas , Texas
+San Jose , California
+Austin , Texas
+Jacksonville , Florida
+San Francisco , California
+Columbus , Ohio
+Fort Worth , Texas
+Indianapolis , Indiana
+Charlotte , North Carolina
+Seattle , Washington
+Denver , Colorado
+Washington , D.C. District of Columbia
+Boston , Massachusetts
+El Paso , Texas
+Detroit , Michigan
+Nashville , Tennessee
+Memphis , Tennessee
+Portland , Oregon
+Oklahoma City , Oklahoma
+Las Vegas , Nevada
+Louisville , Kentucky
+Baltimore , Maryland
+Milwaukee , Wisconsin
+Albuquerque , New Mexico
+Tucson , Arizona
+Fresno , California
+Sacramento , California
+Mesa , Arizona
+Kansas City , Missouri
+Atlanta , Georgia
+Long Beach , California
+Omaha , Nebraska
+Raleigh , North Carolina
+Colorado Springs , Colorado
+Miami , Florida
+Virginia Beach , Virginia
+Oakland , California
+Minneapolis , Minnesota
+Tulsa , Oklahoma
+Arlington , Texas
+New Orleans , Louisiana
+Wichita , Kansas
+Cleveland , Ohio
+Tampa , Florida
+Bakersfield , California
+Aurora , Colorado
+Anaheim , California
+Honolulu , Hawaii
+Santa Ana , California
+Riverside , California
+Corpus Christi , Texas
+Lexington , Kentucky
+Stockton , California
+St. Louis , Missouri
+Saint Paul , Minnesota
+Henderson , Nevada
+Pittsburgh , Pennsylvania
+Cincinnati , Ohio
+Anchorage , Alaska
+Greensboro , North Carolina
+Plano , Texas
+Newark , New Jersey
+Lincoln , Nebraska
+Orlando , Florida
+Irvine , California
+Toledo , Ohio
+Jersey City , New Jersey
+Chula Vista , California
+Durham , North Carolina
+Fort Wayne , Indiana
+St. Petersburg , Florida
+Laredo , Texas
+Buffalo , New York
+Madison , Wisconsin
+Lubbock , Texas
+Chandler , Arizona
+Scottsdale , Arizona
+Reno , Nevada
+Glendale , Arizona
+Norfolk , Virginia
+North Las Vegas , Nevada
+Gilbert , Arizona
+Chesapeake , Virginia
+Irving , Texas
+Hialeah , Florida
+Garland , Texas
+Fremont , California
+Richmond , Virginia
+Boise , Idaho
+Baton Rouge , Louisiana
+Des Moines , Iowa
+-
+845 Hamilton Court
+908 Park St.
+952 San Pablo Lane
+31 Jefferson Ave.
+579 South Harvey St.
+7126 Grove Street
+83 Pawnee St.
+9749 Cedarwood Street
+497 Colonial Street
+7442 High Noon St.
+21 Beech Ave.
+7641 Canterbury St.
+8197 St Paul Dr.
+8072 S. James Lane
+87 Pacific Drive
+7164 Valley St.
+729 Delaware Ave.
+602 Gregory Rd.
+215 Greenview St.
+29 South Sulphur Springs Drive
+5 Plymouth Court
+195 W. Argyle Street
+52 Canterbury Lane
+96 E. Lafayette Ave.
+58 Arlington Court
+96 Snake Hill St.
+35 Myrtle Dr.
+636 Hawthorne St.
+46 Bowman St.
+80 Grand Road
+456 Old Westminster St.
+82 Mayflower Drive
+180 10th St.
+7790 Wild Rose Court
+9901 Rock Maple Drive
+893 Philmont St.
+7574 Columbia Dr.
+2 Old Myers St.
+70 Hall Dr.
+9111 Magnolia Dr.
+10 Shub Farm St.
+54 East Gulf Street
+302 New St.
+86 Fairground St.
+5 Indian Spring St.
+78 Annadale Lane
+51 Cherry Hill Drive
+287 Clark Ave.
+7497 Chapel St.
+164 East Mammoth Ave.
+9178 Branch Rd.
+219 Rockcrest Dr.
+6 St Paul Drive
+44 East George Dr.
+70 Ivy St.
+7544 Old Lookout St.
+8452 North Rockledge Road
+46 Belmont Ave.
+82 Fairfield Rd.
+244 Homewood Street
+31 Harvey Lane
+8241 Swanson Lane
+58 Oxford Rd.
+935 Central Dr.
+7877 Arlington St.
+8160 Goldfield Ave.
+884 Bear Hill Rd.
+8126 Leatherwood Ave.
+640 NW. Richardson Ave.
+870 Lookout Street
+336 Elmwood Street
+7 E. Columbia Drive
+7157 NW. Mill Pond Street
+26 Roberts St.
+39 West Peninsula St.
+172 Belmont Street
+8189 W. Lawrence St.
+7507 Walnut Court
+7952 Nichols Circle
+153 Euclid Road
+372 Squaw Creek Drive
+7757 Trusel Dr.
+438 Bear Hill Street
+27 Airport Ave.
+7365 Cherry Hill Drive
+57 Santa Clara St.
+994 Lakeview Dr.
+208 Lancaster Rd.
+870 Hill Field Street
+533 Old York St.
+75 Overlook St.
+2 E. Hillside Street
+5 NE. Pearl Ave.
+981 Sherwood Ave.
+7277 Ridgewood St.
+365 West Lake Forest St.
+92 Pulaski St.
+869 Brewery St.
+317 Lincoln St.
+7370 South Water St.
+34 West Shady Street
+784 Prince St.
+7311 Catherine Street
+25 Elm Street
+36 Hawthorne Ave.
+141 Lookout Ave.
+9297 Broad Ave.
+378 Chapel Ave.
+429 Cemetery St.
+857 Wintergreen St.
+9003 Bridgeton St.
+45 Morris Ave.
+9930 Glenwood Ave.
+749 N. Wellington Street
+545 Lower River Court
+68 Oakwood Street
+748 Strawberry Circle
+799 Circle Dr.
+7702 Plumb Branch Lane
+2 8th Dr.
+476 Mayfair Ave.
+17 N. Ocean Street
+87 SE. Edgewater Rd.
+86 E. Branch Road
+8009 Beach St.
+231 Lookout St.
+46 Blue Spring Drive
+177 Selby Lane
+286C Pierce Drive
+19 Franklin Ave.
+165 North Big Rock Cove Ave.
+187 Bald Hill Drive
+991 10th Street
+866 Heather St.
+9085 Glendale St.
+7129 Coffee Lane
+9993 Orange Drive
+50 Courtland St.
+7362 W. Marsh Dr.
+918 New Saddle Court
+318 Lexington Ave.
+9531 8th St.
+67 Windfall Street
+172 Wild Horse St.
+17 South Pineknoll Street
+7988 West Augusta Ave.
+307 Walnut St.
+2 Big Rock Cove Drive
+239 Beech Street
+9409 Goldfield Street
+84 Fremont St.
+9642 Ryan Lane
+792 Rockwell Ave.
+8162 Fifth Ave.
+1 Tunnel Dr.
+212 Applegate Rd.
+766 South Sutor Ave.
+809 Clinton Rd.
+615 S. Fieldstone Ave.
+218 East Nut Swamp Street
+7693 Ivy Circle
+823 Mayfair Ave.
+7192 Lakeview Ave.
+7804 Smoky Hollow St.
+458 White Ave.
+8041 N. Columbia St.
+5 Lakeview Street
+97 W. Greenview Lane
+16 Proctor Street
+263 Atlantic Ave.
+537 Greenview Ave.
+23 Canal Road
+15 Edgewood Street
+99 Hickory Lane
+7658 Saxton Court
+7364 Wrangler Court
+2 Vale St.
+8842 George Drive
+295 Big Rock Cove St.
+7663 Homewood Dr.
+73 Roosevelt St.
+7648 S. Edgewood Ave.
+865 Summit Street
+133 Cemetery Dr.
+60 2nd Rd.
+9522 State Lane
+9153 Marvon Court
+390 Campfire Dr.
+7659 W. Wild Rose Rd.
+8155 Carriage Ave.
+70 Princeton Drive
+1 Berkshire Rd.
+55 N. Lyme St.
+76 Elizabeth St.
+77 North Leeton Ridge St.
+9227 Elmwood Street
+293 Ivy Street
+297 Blue Spring St.
+89 Ohio Road
+7545 Somerset Street
+9339 SW. Lincoln Road
+486 North Spruce Street
+8 Cypress Ave.
+20 Crescent Drive
+100 Gates Rd.
+9058 Tunnel Court
+7025 Prince Ave.
+781 Pin Oak Ave.
+27 Kent Dr.
+553 Glenlake St.
+366 N. Ocean St.
+16 Argyle Avenue
+8804 N. Cedar Swamp St.
+2 Corona St.
+77 Oklahoma St.
+93 Marlborough St.
+973 Division Street
+54 Vernon St.
+493 Holly Lane
+8 South Selby St.
+57 Woodsman Drive
+54 Lafayette Drive
+9369 West Street
+9879 John Court
+8792 Lake St.
+86 Mill St.
+34 Pilgrim Dr.
+8930 W. Bishop St.
+838 Shore Ave.
+98 Hillcrest Court
+32 Sierra Drive
+9092 West Meadow Rd.
+221 Jackson Road
+974 E. Ridgewood Street
+7809 Devonshire Lane
+590 Division Street
+963 Ashley Court
+983 Lake View St.
+7347 Spruce Street
+8960 Atlantic St.
+60 East Ocean St.
+650 NW. Wayne Street
+51 Nichols Street
+9727 Marshall Ave.
+992 Essex Court
+896 W. Delaware Rd.
+8993 Rock Creek St.
+12 Old Walnut Drive
+126 E. Charles St.
+80 Beaver Ridge Court
+8935 N. Henry Road
+9295 Beech St.
+187 St Margarets Street
+8951 Cambridge St.
+834 Miller Drive
+450 Main Ave.
+246 Thatcher Rd.
+426 Hudson Street
+14 Foster Rd.
+48 Sugar Street
+7 E. Van Dyke Dr.
+80 Taylor St.
+9685 Church St.
+647 SE. White Lane
+8 W. Forest St.
+57 Oakwood Drive
+518 East Greenview Street
+71 Vernon Dr.
+4 Golf Rd.
+7 Kent St.
+788 E. Smith Store Lane
+7567 West Lawrence Street
+62 Washington Ave.
+935 Lees Creek Lane
+7608 Peninsula St.
+7585 Nicolls St.
+68 Wilson Drive
+39 East Fifth Dr.
+8923 S. Olive Drive
+20 E. Gulf Court
+8726 Kingston Street
+28 Lincoln Lane
+64 Country Club Ave.
+59 Myers Street
+78 Vernon Ave.
+30 E. Strawberry Lane
+7005 W. Old York Street
+63 Wilson Road
+7139 Oakwood Street
+8877 South Fairground Street
+9515 Vine Lane
+9908 Overlook St.
+7364 Corona Lane
+8660 53rd Court
+721 Addison Rd.
+401 Canterbury Road
+770 Old Cypress St.
+55 Circle Street
+911 N. Bradford Rd.
+662 Lookout Ave.
+76 Gates Court
+60 Mechanic Court
+83 Thorne St.
+8365 N. Forest St.
+8018 Lees Creek Street
+8124 Lyme Lane
+8756 Nichols St.
+389 Aspen St.
+678 Hall Street
+782 Summit Dr.
+90 Briarwood Lane
+615 Alton Ave.
+539 West Big Rock Cove Street
+7833 Wood Ave.
+81 Belmont Avenue
+9534 Augusta Ave.
+646 S. Beacon Lane
+68 Ryan Court
+131 Airport Ave.
+50 Foster St.
+464 Leatherwood St.
+87 Williams St.
+41 Surrey Ave.
+377 Leatherwood St.
+8950 S. Annadale Circle
+7005 Rockville Lane
+390 South Drive
+631 Rockville Lane
+7084 NW. Stillwater Street
+9356 Henry Circle
+430 N. Sierra Street
+65 Summit Ave.
+805 Queen St.
+210 Oxford Drive
+65 Temple Street
+1 North Lees Creek Ave.
+9048 Fifth Rd.
+9516 Thomas St.
+387 Bradford Street
+23 Williams Street
+899 NE. Church Ave.
+278 Hilltop Dr.
+8411 Pennsylvania Street
+63 Cottage Street
+34 N. George St.
+667 Rose St.
+9084 Walnutwood Dr.
+38 Saxton Street
+7428 South Rockwell Ave.
+849 Prairie St.
+312 Sunbeam Ave.
+5 Greystone Rd.
+624 Circle Street
+7 Jockey Hollow St.
+636 Bridgeton Street
+869 Illinois St.
+12 Talbot St.
+317 Livingston Dr.
+510 Fairway St.
+909 Nichols St.
+9979 Mayfair Ave.
+7726 St Louis St.
+9898 Temple Lane
+42 Tunnel Avenue
+9859 West Newcastle Avenue
+9 Oxford Lane
+8011 Adams Court
+400 Lake Drive
+519 Columbia Dr.
+75 Olive Ave.
+120 Prairie St.
+78 Brandywine Street
+894 Manchester Street
+34 E. Acacia Dr.
+75 Evergreen Lane
+69 Hall Court
+348 Pine St.
+860 Ridgewood Dr.
+9501 Liberty Street
+3 River St.
+962 Ramblewood Avenue
+1 East Street
+542 Goldfield Dr.
+88 College Street
+9420 Annadale St.
+47 S. Griffin Drive
+532 Summerhouse Street
+9824 West Courtland Drive
+9687 S. Hartford Ave.
+426 Greenrose Ave.
+328 Birch Hill Ave.
+60 Cambridge Ave.
+7 New Court
+9896 E. Pendergast Ave.
+7954 South Bank Court
+62 Gonzales Lane
+561 Roehampton Road
+9816 Galvin Street
+574 Colonial Road
+8249 Glen Creek Street
+33 Del Monte Ave.
+9923 Walt Whitman Street
+87 Maple Ave.
+708 Elizabeth Lane
+659 Virginia Street
+667 West Colonial St.
+15 Woodside Street
+51 Marsh Road
+8304 W. Arrowhead St.
+8265 Linden Road
+71 North Lakeview Street
+9894 4th St.
+7182 Warren St.
+77 Big Rock Cove Street
+964 S. Coffee St.
+7 School Ave.
+8040 Westminster Ave.
+9790 Cedar Swamp Dr.
+248 Beech Street
+7375 Oxford Street
+43 Hartford Drive
+8676 Buttonwood Ave.
+490C Nicolls Ave.
+29 Marshall Court
+57 Jackson Court
+769 Ann Drive
+71 Cottage Lane
+21 Del Monte St.
+98 N. Thatcher Court
+4 Newbridge Street
+7020 Beach Street
+21 West Jennings Road
+588 North Crescent St.
+57 San Pablo Court
+9934 W. Cherry Circle
+5 Windfall Dr.
+46 Lake View St.
+8435 Annadale Dr.
+69 Eagle Street
+123 South Corona Ave.
+98 Delaware St.
+54 Virginia Lane
+874 E. Prospect Dr.
+65 2nd Ave.
+384 Manhattan Rd.
+406 Nut Swamp Court
+8679 Bayberry Street
+55 Franklin Circle
+33 SE. Sherman Road
+72 Miller Dr.
+681 N. Baker St.
+89 Princess Ave.
+465 Brickell Ave.
+97 Colonial St.
+688 Woodside Street
+10 Ocean Ave.
+4 S. Hill Field Drive
+204 Silver Spear Street
+9220 South Laurel Court
+8991 W. Homewood Rd.
+81 Elizabeth St.
+245 Victoria Rd.
+70 East Berkshire Drive
+7 East Ridgewood Ave.
+17 Edgemont Street
+98 2nd Street
+97 W. Atlantic Street
+461 Santa Clara Rd.
+322 Fieldstone Ave.
+7491 Penn St.
+414 Pennington St.
+8244 Lincoln Lane
+225 W. Myers Dr.
+499 Howard St.
+7 South Ivy Lane
+9099 Proctor Ave.
+7936 Peninsula St.
+40 Wellington Court
+18 Wintergreen Court
+20 Cross Lane
+909 Willow Ave.
+9203 Victoria Street
+8979 Hilltop Ave.
+42 Wall Ave.
+8528 John Court
+198 Clark Drive
+9759 Harvard Street
+15 Evergreen Drive
+820 North Walnut Road
+852 Marvon Drive
+93 South Country St.
+8453 Rose Drive
+961 Aspen Rd.
+725 West Myers Ave.
+728 Chestnut Street
+7924 Hudson Ave.
+92 Sage Rd.
+27 Winding Way Circle
+780 Homewood St.
+367 Warren Street
